@@ -19,13 +19,13 @@ This project is done as an educational project.
 [![Todo](https://img.shields.io/badge/Todo-See%20Here-success)](https://github.com/mgmgst/sms_serial_verification/blob/master/TODO.md)
 
 <div dir="rtl"> 
- در این پروژه از تکنولوژی های زیر استفاده می شه:
+ در این پروژه از تکنولوژی های زیر استفاده می شه :
 
 - پایتون
 - کیو تی
 - وب اسکرپینگ
 
-<div>
+</div>
 
 ## How to run
 1. Install python3, pip3, virtualenv in your system.
